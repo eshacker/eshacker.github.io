@@ -1,2 +1,3 @@
 # eshacker.github.io
-Blog
+
+[Blog](https://eshacker.github.io)
