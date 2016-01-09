@@ -5,9 +5,79 @@
     <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://localhost:8080</link>
     <description>A Life Log</description>
-    <pubDate>Sat, 02 Jan 2016 19:00:00 -0500</pubDate>
+    <pubDate>Fri, 08 Jan 2016 19:00:00 -0500</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Weekly updates for Second Week of 2016!</title>
+      <link>http://localhost:8080/articles/Week-2-2016/</link>
+      <pubDate>Fri, 08 Jan 2016 19:00:00 -0500</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/Week-2-2016/</guid>
+      <author></author>
+      <description>&lt;h1 id=&quot;book-for-the-week&quot;&gt;Book for the week&lt;/h1&gt;
+&lt;p&gt;Essential Startup Guide by Bill Robb.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Read it multiple times. &lt;/li&gt;
+&lt;li&gt;A good read. &lt;/li&gt;
+&lt;li&gt;Gives a lot of info for those who didn’t go to management schools or do not have a clue where to start from.&lt;/li&gt;
+&lt;li&gt;Recommended as first book on the subject matter. Informative with concrete details.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&quot;jan-3&quot;&gt;Jan 3&lt;/h1&gt;
+&lt;p&gt;Travelling back.&lt;/p&gt;
+&lt;p&gt;SUCCESS is the key word for today.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Do not let anybody else define success for you.&lt;/li&gt;
+&lt;li&gt;Success can be anything you want it to be.&lt;/li&gt;
+&lt;li&gt;Success happens as an outcome of hard, dedidcated work.&lt;/li&gt;
+&lt;li&gt;Chasing success is foolish. It’ll happen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&quot;jan-4&quot;&gt;Jan 4&lt;/h1&gt;
+&lt;p&gt;Travel.&lt;/p&gt;
+&lt;p&gt;DUTY.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Duty shouldn’t have negative definition as we have it today.&lt;/li&gt;
+&lt;li&gt;This is because of western work habits: treating people on duty as slaves.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&quot;jan-5&quot;&gt;Jan 5&lt;/h1&gt;
+&lt;p&gt;FIND YOUR CALLING.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&quot;jan-6&quot;&gt;Jan 6&lt;/h1&gt;
+&lt;p&gt;Emotional Engagement vs. Intellectual Engagement.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;When engaging in an pursuit, brain waves will take you so far. &lt;/li&gt;
+&lt;li&gt;Be emotionally invested in whatever you do. That’ll keep you going for longer.&lt;/li&gt;
+&lt;li&gt;Mix Intellectual decisions with emotional intelligence to achieve maximum out of your work.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&quot;jan-7&quot;&gt;Jan 7&lt;/h1&gt;
+&lt;p&gt;EMOTIONS as LIBERATORS.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Brain is an analytical machine. Do not let it dictate your every move. That’ll close gap between you and machines. Use your emotions to your advantage.&lt;/li&gt;
+&lt;li&gt;If you do not feel strong about something. Don’t let that move dictate your life.&lt;/li&gt;
+&lt;li&gt;Have faith in other people when you cannot decide what’s good for you.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&quot;jan-8&quot;&gt;Jan 8&lt;/h1&gt;
+&lt;p&gt;BE A CRUSADER.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Find something or create something that you can be passionate about. &lt;/li&gt;
+&lt;li&gt;Crusade for it. &lt;/li&gt;
+&lt;li&gt;Teach people about it; make them use it. &lt;/li&gt;
+&lt;li&gt;Be so passionate that everything else just boils in it’s heat.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;I am thinking about reading &lt;a href=&quot;https://github.com/eshacker/wintersmith&quot;&gt;WinterSmith Project&lt;/a&gt; as a book.&lt;/p&gt;
+&lt;h1 id=&quot;jan-9&quot;&gt;Jan 9&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h1 id=&quot;what-else-is-going-on-&quot;&gt;What else is going on?&lt;/h1&gt;
+&lt;p&gt;Nothing much. Winters. Looking for a job in JS space. Reading a book a week. Reading Daily Inspiration each day.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/hackecmascript&quot;&gt;@hackecmascript&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Inspirations for January Third!</title>
       <link>http://localhost:8080/articles/January-Third-Inspirations/</link>
